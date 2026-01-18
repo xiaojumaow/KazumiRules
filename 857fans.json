@@ -1,0 +1,17 @@
+857fans{
+    "api": "3",
+    "type": "anime",
+    "name": "857fans",
+    "version": "1.0.0",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://www.857fans.com/",
+    "searchURL": "https://www.857fans.com/search/-------------.html?wd=@keyword",
+    "searchList": "//div[1]/div/div/div/div/div[2]/ul//li",
+    "searchName": "//div[2]/h4/a",
+    "searchResult": "//div[1]/a",
+    "chapterRoads": "//div[1]/div/div[2]/div[3]//div",
+    "chapterResult": "//ul/li/a"
+}
